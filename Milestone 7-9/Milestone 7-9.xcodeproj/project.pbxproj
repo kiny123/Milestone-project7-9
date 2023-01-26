@@ -13,6 +13,7 @@
 		11807AC12981D6E700E60979 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11807ABF2981D6E700E60979 /* Main.storyboard */; };
 		11807AC32981D6F200E60979 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11807AC22981D6F200E60979 /* Assets.xcassets */; };
 		11807AC62981D6F200E60979 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11807AC42981D6F200E60979 /* LaunchScreen.storyboard */; };
+		11807ADB2981E0D200E60979 /* start copy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 11807ADA2981E0D200E60979 /* start copy.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		11807AC22981D6F200E60979 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11807AC52981D6F200E60979 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		11807AC72981D6F200E60979 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11807ADA2981E0D200E60979 /* start copy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "start copy.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				11807AC22981D6F200E60979 /* Assets.xcassets */,
 				11807AC42981D6F200E60979 /* LaunchScreen.storyboard */,
 				11807AC72981D6F200E60979 /* Info.plist */,
+				11807ADA2981E0D200E60979 /* start copy.txt */,
 			);
 			path = "Milestone 7-9";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				11807AC62981D6F200E60979 /* LaunchScreen.storyboard in Resources */,
+				11807ADB2981E0D200E60979 /* start copy.txt in Resources */,
 				11807AC32981D6F200E60979 /* Assets.xcassets in Resources */,
 				11807AC12981D6E700E60979 /* Main.storyboard in Resources */,
 			);
